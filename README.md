@@ -19,7 +19,7 @@
   
 <div> 
  <a href = "mailto:jlincolnsg@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=blue" target="_blank">
- <a href = "mailto:jlincolnsg@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank">
- <a href = "mailto:jlincolnsg@hotmail.com"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a>
+ <a href = "https://teams.live.com/meet/9351468564438"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank">
+</a>
   
 </div>
