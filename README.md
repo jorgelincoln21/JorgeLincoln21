@@ -5,12 +5,7 @@
    
 </div>
 
-<div>
-  <div align="center">
-  <a href="https://github.com/JorgeLincoln">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeLincoln&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
-  
+ 
 <div> 
  <a href = "mailto:jlincolnsg@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=blue" target="_blank">
  <a href = "https://teams.live.com/meet/9351468564438"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank">
